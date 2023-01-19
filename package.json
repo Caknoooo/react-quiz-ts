@@ -3,10 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/styled-components": "^5.1.26",
+    "components": "^0.1.0",
     "cra-template-typescript": "1.2.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "styled": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
